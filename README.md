@@ -5,6 +5,7 @@
   </a>
 </div>
 
+- The Irish lyrics dataset is used in this project ----> https://storage.googleapis.com/tensorflow-1-public/course3/irish-lyrics-eof.txt
 - Text Generation using LSTM in **TensorFlow**.
 - It includes text preprocessing and tokenization before feeding it to the RNN.
 - It takes the starting word and the number of words as arguments to generate a sentence.
